@@ -144,6 +144,6 @@ print(results)
 ## Author & Academic Information
 
 - **Author:** Mabroor Ahmad Mansoor
-- **SAP ID:** 70159440
 - **Domain:** Natural Language Processing / Deep Learning
 - **GitHub:** [@mabroorahmad1](https://github.com/mabroorahmad1)
+- **Portfolio:** (https://mabroorahmad.vercel.app)
